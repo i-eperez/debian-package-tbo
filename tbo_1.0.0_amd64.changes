@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 13 Apr 2013 06:40:04 -0400
+Source: tbo
+Binary: tbo
+Architecture: source amd64
+Version: 1.0.0
+Distribution: unstable
+Urgency: low
+Maintainer: Daniel Garcia <danigm@wadobo.com>
+Changed-By: Daniel Garcia <danigm@wadobo.com>
+Description:
+ tbo        - Intuitive GNOME comic creator
+Changes:
+ tbo (1.0.0) unstable; urgency=low
+ .
+   * New upstream release.
+Checksums-Sha1:
+ db1f3f8b61a9848c035666466ab1c0e1abaee297 653 tbo_1.0.0.dsc
+ 0114258adbfb3f19a79f167bfebe6748179e065b 2759845 tbo_1.0.0.tar.gz
+ 9828e7b0954fe0e7966324b7461cd34ff7dfd96f 200782 tbo-dbgsym_1.0.0_amd64.deb
+ a1333af028a27af21c29b17a455354e073062725 12635 tbo_1.0.0_amd64.buildinfo
+ d816cedf84ef60f097d53d8a27e881b7c40d7729 482134 tbo_1.0.0_amd64.deb
+Checksums-Sha256:
+ 23ee33071b5cddce1f00e5150370d4e820e695d128db0e704d85ad093a5bed7a 653 tbo_1.0.0.dsc
+ cb4de49beb9db261c703f353578d54d056b92dfdc0aa7c72379e758cbdae608f 2759845 tbo_1.0.0.tar.gz
+ 7eae568f91b7363ca8c6b2231afce5cf96d0a182139691941b8c27cf80720b08 200782 tbo-dbgsym_1.0.0_amd64.deb
+ c5882b47207de47a0899c51a4fc21ba05dde4589fa9ed8f00019d97451ef77a4 12635 tbo_1.0.0_amd64.buildinfo
+ 464c280288aab211da72a79b3fa84d4777128b657f9ed4caf701dceee6fef5da 482134 tbo_1.0.0_amd64.deb
+Files:
+ 60dd3ff96527255679379311777f715e 653 gnome optional tbo_1.0.0.dsc
+ 14a19b7e07f1f20ac748c2b00cc25da5 2759845 gnome optional tbo_1.0.0.tar.gz
+ b16b7eaf2ef4836619ab39bc84082586 200782 debug extra tbo-dbgsym_1.0.0_amd64.deb
+ dbf8915d790a244d55316efb1656d71c 12635 gnome optional tbo_1.0.0_amd64.buildinfo
+ 22ebc622b2fcfea6f60af062239c0b5c 482134 gnome optional tbo_1.0.0_amd64.deb
