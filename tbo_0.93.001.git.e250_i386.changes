@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 26 Apr 2010 09:51:33 +0200
+Source: tbo
+Binary: tbo
+Architecture: source i386
+Version: 0.93.001.git.e250
+Distribution: unstable
+Urgency: low
+Maintainer: Daniel Garcia <dani@danigm.net>
+Changed-By: Daniel Garcia <dani@danigm.net>
+Description:
+ tbo        - Intuitive GNOME comic creator
+Changes:
+ tbo (0.93.001.git.e250) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1:
+ 9340aa7b2e52f901c4a34a77aa6b84c4aa79b1ed 698 tbo_0.93.001.git.e250.dsc
+ bf48376f87a6a7887616dd0e1192025bb9eb09b9 2505113 tbo_0.93.001.git.e250.tar.gz
+ dc429a3f234f43e238c57f1e6ac351c7c67ce814 8248 tbo-dbgsym_0.93.001.git.e250_i386.deb
+ ad2449094452828be0e3623bac926b4ea97253c8 12610 tbo_0.93.001.git.e250_i386.buildinfo
+ 39ea4d3ab7da06d72887eebae3e146f15e794c65 352836 tbo_0.93.001.git.e250_i386.deb
+Checksums-Sha256:
+ c0ff3d463fea96aa05366bd3e9c7024edcf532bb81bf03ec9c1b864006f511a9 698 tbo_0.93.001.git.e250.dsc
+ de35c0c584bc232aeb8c5ecef8c2ac3bc7f3720f40c379ab54c60a517241bc05 2505113 tbo_0.93.001.git.e250.tar.gz
+ a94dc0f9d3761fcb7941a66871059aac421b313d4dc020455d814593419da318 8248 tbo-dbgsym_0.93.001.git.e250_i386.deb
+ 3ddbaf493cb27c7be2ea767e822ab9fc68a4ba270e5bd2d060b8a153a553e490 12610 tbo_0.93.001.git.e250_i386.buildinfo
+ 2658081e38a76ae1edf4a280846ddda555e4edd84aebfc21cfa51755e2470d40 352836 tbo_0.93.001.git.e250_i386.deb
+Files:
+ 2760efd9397cdacf7a1d5a9a1aeffc0c 698 gnome optional tbo_0.93.001.git.e250.dsc
+ 03faa2e7a32d83daada11cf0ba5250af 2505113 gnome optional tbo_0.93.001.git.e250.tar.gz
+ 1703d57073808f27e7dfdcc75d165aca 8248 debug extra tbo-dbgsym_0.93.001.git.e250_i386.deb
+ 4164e72df5b7ef1a9845b599fc4534b4 12610 gnome optional tbo_0.93.001.git.e250_i386.buildinfo
+ cf990657870d2e9f3ba10ae7b9b584fa 352836 gnome optional tbo_0.93.001.git.e250_i386.deb
