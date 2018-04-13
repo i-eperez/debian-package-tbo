@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 13 Apr 2013 06:40:04 -0400
+Source: tbo
+Binary: tbo
+Architecture: source i386
+Version: 1.0.0
+Distribution: unstable
+Urgency: low
+Maintainer: Daniel Garcia <danigm@wadobo.com>
+Changed-By: Daniel Garcia <danigm@wadobo.com>
+Description:
+ tbo        - Intuitive GNOME comic creator
+Changes:
+ tbo (1.0.0) unstable; urgency=low
+ .
+   * New upstream release.
+Checksums-Sha1:
+ 146ddd83445215c17525456c048b2e7d0d9d52c6 655 tbo_1.0.0.dsc
+ 4bbd39832637cac27e58eddda7bfbd6948a9496c 2759744 tbo_1.0.0.tar.gz
+ 30092ea05435bb9c8cfa73c7fd0958346f93d658 178236 tbo-dbgsym_1.0.0_i386.deb
+ a40b5f6b97266b35ae6c41450ca937dfa8f2cc62 12579 tbo_1.0.0_i386.buildinfo
+ 54d1326947266bb598d7d55752c885e1214cb964 487548 tbo_1.0.0_i386.deb
+Checksums-Sha256:
+ 06b41c31b4a2e3abeea6c84b01cc3deef63c22dc813d11f237a35a963c39803d 655 tbo_1.0.0.dsc
+ 285239a794f2e65d8b83b525013f4ebd6a99068297736f8a32feda1781a80132 2759744 tbo_1.0.0.tar.gz
+ ba6f706071d4ce868b4a7341e43e9f799ad4a257230e8e9634c22653b32fe1bb 178236 tbo-dbgsym_1.0.0_i386.deb
+ 6f1d5a9197b1edbce53db725b6ce15368c5a819e3450d529c04d39fa393ee6eb 12579 tbo_1.0.0_i386.buildinfo
+ 964b11cbbe039d41f9d0e4b8537d1f28191f9de59c1e00f2a0bcb178109c18ea 487548 tbo_1.0.0_i386.deb
+Files:
+ 6c189f442d533dfd867df173805e5a4a 655 gnome optional tbo_1.0.0.dsc
+ 282a4c521b64c44a5f7978162fb51edc 2759744 gnome optional tbo_1.0.0.tar.gz
+ 1d6d1e9db621c2473787e606bd113f84 178236 debug extra tbo-dbgsym_1.0.0_i386.deb
+ 22f3f53daef57e45bb563319f2722e42 12579 gnome optional tbo_1.0.0_i386.buildinfo
+ 58c7bfee7cc7ed03b30bece92fc27f24 487548 gnome optional tbo_1.0.0_i386.deb
